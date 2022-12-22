@@ -1,6 +1,6 @@
 
 
-![](https://img.freepik.com/free-photo/shot-young-coworkers-sharing-concepts-together_329181-20154.jpg?w=1060&t=st=1671656630~exp=1671657230~hmac=5bd7f3f18aacd1db93a8341143e3eb04b329f07396533bb50652afcffbe458ce)
+![](https://github.com/TirendazAcademy/ChatGPT-with-Examples/blob/main/Images/ChatGPT-Examples.png?raw=true)
 
 [![](https://img.shields.io/badge/OpenAI-navy?style=plastic&logo=openai&logoColor=white)]()
 [![](https://img.shields.io/badge/ChatGPT-purple?style=plastic&logo=chatgpt&logoColor=white)]()
