@@ -17,3 +17,4 @@ Chat GPT is an AI chatbot developed by OpenAI. It can code, fix bugs, write arti
 - [How does ChatGPT act as a Python interpreter?](https://www.youtube.com/watch?v=Y_rIpeVwS5Y&t=8s)
 - [ChatGPT for Data Science 🔥 Chat GPT Tutorial](https://www.youtube.com/watch?v=s7h8ntRQUvI)
 - [SQL with ChatGPT in Python 🔥 Chat GPT Tutorial](https://www.youtube.com/watch?v=QbPqz8-IqOs)
+- [Building a Chatbot with OpenAI & Gradio in Python](https://youtu.be/JXhzFlSBvg0)
