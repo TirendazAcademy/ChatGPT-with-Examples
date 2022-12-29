@@ -16,7 +16,7 @@ ChatGPT is an AI chatbot developed by OpenAI. You can ask it for everything you'
 
 To use ChatGPT, you don't need to download any program. You can access this monster [here](https://chat.openai.com/chat) and sign up with your Gmail account.
 
-This repo contains ChatGPT tutorials about data science, machine learning, deep learning, and Python. In these tutorial, we show how to use ChatGPT with examples. 
+This repo contains ChatGPT tutorials about data science, machine learning, deep learning, and Python. In these tutorials, we show how to use ChatGPT with examples. 
 
 ## [![](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLbQRubTta6ffYpLSVD7cCjj2juFrWSkhc)
 
