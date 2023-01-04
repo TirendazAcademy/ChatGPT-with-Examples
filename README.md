@@ -26,5 +26,6 @@ This repo contains ChatGPT tutorials about data science, machine learning, deep 
 - [SQL with ChatGPT in Python 🔥 Chat GPT Tutorial](https://www.youtube.com/watch?v=QbPqz8-IqOs)
 - [Building a Chatbot with OpenAI & Gradio in Python](https://youtu.be/JXhzFlSBvg0)
 - [Machine Learning with ChatGPT using Apple Stock Market Prices](https://youtu.be/g5utGLzc6g8)
+- [TEXT to IMAGE with STABLE DIFFUSION and ChatGPT](https://youtu.be/DrZfgP6y__g)
 
 🔗 Let's connect [YouTube](http://youtube.com/tirendazacademy) | [Medium](http://tirendazacademy.medium.com) | [Twitter](http://twitter.com/tirendazacademy) | [Instagram](https://www.instagram.com/tirendazacademy) 😎
