@@ -28,5 +28,6 @@ This repo contains ChatGPT tutorials about data science, machine learning, deep 
 - [Machine Learning with ChatGPT using Apple Stock Market Prices](https://youtu.be/g5utGLzc6g8)
 - [TEXT to IMAGE with STABLE DIFFUSION and ChatGPT](https://youtu.be/DrZfgP6y__g)
 - [How to Make Viral Videos with ChatGPT](youtu.be/BdzRhpQQ6yc)
+- [GPT-4: The AI Revolution](https://youtu.be/DnKZHShdQr0)
 
 🔗 Let's connect [YouTube](http://youtube.com/tirendazacademy) | [Medium](http://tirendazacademy.medium.com) | [Twitter](http://twitter.com/tirendazacademy) | [Instagram](https://www.instagram.com/tirendazacademy) 😎
