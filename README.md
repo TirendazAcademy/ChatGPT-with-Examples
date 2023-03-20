@@ -10,8 +10,6 @@
 [![](https://img.shields.io/badge/DeepLearning-282A3A?&style=plastic&logo=deeplearning&logoColor=white)]()
 [![](https://img.shields.io/badge/SQL-3C2A21?&style=plastic&logo=sqlite&logoColor=white)]()
 
-
-
 ChatGPT is an AI chatbot developed by OpenAI. You can ask it for everything you've ever wanted. It can even write working code for your specific purpose in every programming language. It can code, fix bugs, write articles, help you decorate your home, make up recipes, and more. ChatGPT was fine-tuned on top of GPT-3.5 using supervised learning and reinforcement learning. In a nutshell, ChatGPT is A Game-Changer in the World of AI Language Processing. I can say that it is much better than GitHub Copilot and Alpha Code.
 
 To use ChatGPT, you don't need to download any program. You can access this monster [here](https://chat.openai.com/chat) and sign up with your Gmail account.
@@ -29,5 +27,6 @@ This repo contains ChatGPT tutorials about data science, machine learning, deep 
 - [TEXT to IMAGE with STABLE DIFFUSION and ChatGPT](https://youtu.be/DrZfgP6y__g)
 - [How to Make Viral Videos with ChatGPT](youtu.be/BdzRhpQQ6yc)
 - [GPT-4: The AI Revolution](https://youtu.be/DnKZHShdQr0)
+- [Everything you need to know about GPT-4](https://youtu.be/eoz3ZsEe-Vg)
 
 🔗 Let's connect [YouTube](http://youtube.com/tirendazacademy) | [Medium](http://tirendazacademy.medium.com) | [Twitter](http://twitter.com/tirendazacademy) | [Instagram](https://www.instagram.com/tirendazacademy) 😎
