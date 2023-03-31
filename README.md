@@ -16,7 +16,7 @@ To use ChatGPT, you don't need to download any program. You can access this mons
 
 This repo contains ChatGPT tutorials about data science, machine learning, deep learning, and Python. In these tutorials, we show how to use ChatGPT with examples. 
 
-## [![](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLbQRubTta6ffYpLSVD7cCjj2juFrWSkhc)
+[![](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLbQRubTta6ffYpLSVD7cCjj2juFrWSkhc)
 
 - [ChatGPT with Examples 🔥 Chat GPT Tutorial](https://www.youtube.com/watch?v=KVFwByOIPY8)
 - [How does ChatGPT act as a Python interpreter?](https://www.youtube.com/watch?v=Y_rIpeVwS5Y&t=8s)
@@ -28,5 +28,9 @@ This repo contains ChatGPT tutorials about data science, machine learning, deep 
 - [How to Make Viral Videos with ChatGPT](youtu.be/BdzRhpQQ6yc)
 - [GPT-4: The AI Revolution](https://youtu.be/DnKZHShdQr0)
 - [Everything you need to know about GPT-4](https://youtu.be/eoz3ZsEe-Vg)
+
+[![](https://img.shields.io/badge/Medium-black?&style=plastic&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
+
+- [4 Important Things to Know About GPT-4](https://medium.com/geekculture/an-overview-of-gpt-4-in-4-steps-867bb81b31e3)
 
 🔗 Let's connect [YouTube](http://youtube.com/tirendazacademy) | [Medium](http://tirendazacademy.medium.com) | [Twitter](http://twitter.com/tirendazacademy) | [Instagram](https://www.instagram.com/tirendazacademy) 😎
