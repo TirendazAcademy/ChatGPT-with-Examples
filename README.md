@@ -29,8 +29,9 @@ This repo contains ChatGPT tutorials about data science, machine learning, deep 
 - [GPT-4: The AI Revolution](https://youtu.be/DnKZHShdQr0)
 - [Everything you need to know about GPT-4](https://youtu.be/eoz3ZsEe-Vg)
 
-[![](https://img.shields.io/badge/Medium-black?&style=plastic&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
+[![](https://img.shields.io/badge/Medium-2F0F5D?&style=plastic&logo=medium&logoColor=white)](https://tirendazacademy.medium.com)
 
 - [4 Important Things to Know About GPT-4](https://medium.com/geekculture/an-overview-of-gpt-4-in-4-steps-867bb81b31e3)
+- [How to use ChatGPT in daily life?](https://medium.com/@tirendazacademy/how-to-use-chatgpt-in-daily-life-4688f7afb930)
 
 🔗 Let's connect [YouTube](http://youtube.com/tirendazacademy) | [Medium](http://tirendazacademy.medium.com) | [Twitter](http://twitter.com/tirendazacademy) | [Instagram](https://www.instagram.com/tirendazacademy) 😎
